@@ -4,3 +4,6 @@
 # Datasets
 data/
 Computer Vision/darknet19_448.conv.23
+
+# Local dataset and generated notebook artifacts
+Computer Vision/BCCD_Dataset/
